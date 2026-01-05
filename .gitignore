@@ -1,0 +1,13 @@
+# React
+node_modules/
+build/
+.env
+
+# .NET / C#
+bin/
+obj/
+.vs/
+appsettings.Development.json
+
+
+.vscode/
